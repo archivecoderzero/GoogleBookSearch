@@ -1,5 +1,7 @@
 # Google Book Search
 
+> Uses REACTJS 
+
 ## Technical Requirements
 * Javascript
 * React.js
